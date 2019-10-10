@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+  printf("박진성\n");
+  printf("박찬혁\n");
+  return 0;
+  }
